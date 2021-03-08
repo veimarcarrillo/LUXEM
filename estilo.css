@@ -1,0 +1,63 @@
+.menu{
+	background-color: green;
+	height: 75px;
+}
+.slider {
+	background-color: lightblue;
+	height: 365px;
+}
+.acerca {
+	background-color: pink;
+	height: 300px
+}
+.esmeraldas1{
+	background-color: green;
+	height: 400px;
+
+} 
+.esmeraldas2{
+	background-color: blue;
+	height: 400px;
+
+} 
+.esmeraldas3{
+	background-color: yellow;
+	height: 400px;
+
+} 
+.testimonios{
+	height: 65px;
+}
+.testimonios1{
+	background-color:lightblue;
+	height: 200px
+}
+.testimonios2{
+	background-color:pink;
+	height: 200px
+}
+.testimonios3{
+	background-color:pink;
+	height: 200px
+}
+.testimonios4{
+	background-color:lightblue;
+	height: 200px
+}
+.formulario{
+	background-color: yellow;
+	height: 500px
+}
+.piepagina{
+	background-color: red; 
+	height: 100px
+}
+@media (max-width: 750px){
+	.testimonios3 {
+		display:none;
+	}
+	.testimonios4 {
+		width: 100%;
+	}
+}
+
